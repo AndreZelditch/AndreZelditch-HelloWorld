@@ -6,7 +6,7 @@ public class Application {
      * All implementation code should be written in the Lab class.
      *
      * The Lab.sayHello method should produce a value, "Hello, World!", which this class should be able to print
-     * when you run the main method.
+     * when you run the main m
      */
     public static void main(String[] args) {
         System.out.println("This program will print out whatever is returned by the Lab.sayHello method.");
